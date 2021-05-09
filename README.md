@@ -1,5 +1,5 @@
 # Ardunio-En-az-sayida-banknot-para-ustu-verme
-Ardunio kodu kullanılarak Proteus üzerinde çizim yapılmıştır.
+##Ardunio kodu kullanılarak Proteus üzerinde çizim yapılmıştır.
 
 1. Projeyi çalıstırabilmek için öncelikle ardunio kodunu derlemeniz ve altta çıkan hex uzantılı dosya yolunu kopyalamanız gerekmektedir.
 
