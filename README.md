@@ -6,8 +6,9 @@
 
 ![Ekran görüntüsü 2021-05-09 032636](https://user-images.githubusercontent.com/56557278/117557207-462fc800-b079-11eb-98cf-11fb1a898f93.jpg)
 
-2. Devreyi çalıştırabilmek için Proteus üzerindeki Ardunio devresine sağ tıklayıp Edip Properties'e basmanız gerekli.
+2. Devreyi çalıştırabilmek için Proteus üzerindeki Ardunio devresine sağ tıklayıp Edit Properties'e basmanız gerekli.
 (Proteusu yönetici olarak çalıştırmanız önerilir.)
+
 ![Ekran görüntüsü 2021-05-09 032509](https://user-images.githubusercontent.com/56557278/117557253-b3435d80-b079-11eb-8a51-0e2f3558605b.jpg)
 
 3.Açılan ekranda Program File kısmına kopyaladığımız dosya yolunu yapıştırın.
@@ -29,4 +30,4 @@
 ![Ekran görüntüsü 2021-05-09 032940](https://user-images.githubusercontent.com/56557278/117557473-da029380-b07b-11eb-9425-0be0862638c2.jpg)
 
 
-İşlem sonunda random bir sayı üretilir.Eğer üretilen rastgele sayı 2'ye eşit işe kırmızı led yanar ve paranızın sıkıştığı anlamına gelir.Paranız iade edilir.Eğer üretine sayı 2 den farklı ise işlem başarılı bir şekilde gerçekleştirilmiş demektir.
+İşlem sonunda random bir sayı üretilir.Eğer üretilen rastgele sayı 2'ye eşit işe kırmızı led yanar ve paranızın sıkıştığı anlamına gelir.Paranız iade edilir.Eğer üretilen sayı 2 den farklı ise işlem başarılı bir şekilde gerçekleştirilmiş demektir.
